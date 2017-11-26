@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atividade Dirigida 02/09</string>
+    <string name="legendaNome">Nome do Contanto:</string>
+    <string name="legendaNumero">Número do Telefone:</string>
+    <string name="legendaBtnAdicionar">Salvar</string>
+    <string name="legendaDigiteValor">Digite o Valor</string>
+</resources>
